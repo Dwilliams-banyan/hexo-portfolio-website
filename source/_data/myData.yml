@@ -1,0 +1,87 @@
+# About me varibles
+aboutMe01: "I am a software developer and I enjoy reading fantasy books, watching anime, and coding. I joined and completed a program that teaches you how to code called Persevere, I've completed and received certificates with the online course of “Responsive Web Design”, “JavaScript Algorithms and Data Structures”, and “Front-End Development Libraries” through freeCodeCamp. As well as received certificates from the online course “Spring Boot for Beginners” and “Captivate In Action: Creating a Tabs Interaction” through Udemy. Through these courses and classes, I was able to start the career that I love and gives me purpose."
+aboutMe02: "Persevere was the start of my title as a jr. software developer. I received the knowledge 
+            and skill of Frontend development that started with the freeCodeCamp sources. Persevere also 
+            started my 'on the job' training with Banyan Labs where I received more training, experience, and 
+            was able to develop from my title as a jr. software developer to a software developer. Banyan Labs 
+            partnered with the Indeed company who took a team of new developers, me included, and started 
+            a website project which Indeed continues to use. This opened a whole new environment of coding 
+            knowledge and a good way to apply that knowledge. I was introduced to the Backend aspect of
+            coding, which started me on my way to becoming a full stack developer.
+            My time with Banyan Labs concluded after the Indeed application was up and running. I 
+            am currently enrolled in a python learning program through Columbia University called “Justice 
+            through Code”."
+
+aboutMe03: "I am studying the usage of the coding language known as python as well as the 
+            usage of the python web framework known as Django. My teamwork, communication, and coding 
+            skills continue to grow day by day. There are much easier and simpler paths that I could take but 
+            I choose to stay on this path because of how challenging it is, no matter how much I accomplish 
+            there will always be another level to climb, another coding method or language to learn. That is 
+            what keeps my passion for coding extraordinary"
+# Resumes variables
+address: "Chattanooga, Tn, 37406"
+
+phone: '901-456-9150'
+
+email: 'dwilliams2993@gmail.com'
+
+techProfile1: 'HTML, JavaScript, CSS, JIRA, Bootstrap'
+
+techProfile2: 'Postman, jQuery, Express, Node.js'
+
+techProfile3: 'TypeScript, GitHub, SpringBoot, Figma, React.js'
+
+competencies1:  'Languages: HTML, CSS, JavaScript, NoSQL, TypeScript'
+
+competencies2: 'Time management, communication, team player, motivated, problem solving'
+
+summary: "Continuous integration and continuous deployment (CICD), customer-focused software professional with superior communication skills and
+            expertise in various technical platforms. Understands and meets both
+            client and employer needs and develops highly functional, robust and
+            easy-to-use applications. Excels as hands-on developer and great with
+            software teams. Worked as a full stack developer for 2 years, a positive
+            person who enjoys learning and applying developing knowledge. I'm
+            resourceful and eager to learn!"
+
+jobDate1: '2019-12 / 2022-10'
+
+jobDate2: '2012-06 / 2014-10'
+
+jobRole1: 'Software Developer'
+
+jobRole2: 'Cashier'
+
+job1: 'Banyan Labs, Memphis, TN'
+
+job2: 'Subway Restaurants, Chattanooga, TN'
+
+oneJobSkill1: 'Developing and maintaining ver/Upwork competitor platform'
+
+oneJobSkill2: 'Client side Accessibility/SEO practices, Integrating with and optimizing backend APIs.'
+
+oneJobSkill3: 'LMS Software Platform'
+
+oneJobSkill4: 'Performed Dev-op, work closely with product managers, designers and data teams'
+
+oneJobSkill5: 'Increased Problem Solving and debugging abilities'
+
+oneJobSkill6: 'Build frontend components in React, high-quality, responsive layouts, and impact features'
+
+oneJobSkill7: 'Participate in code reviews and reduce any potential tech debt'
+
+
+twoJobSkill1: 'Tallied cash drawer at beginning and end of each work shift.'
+
+twoJobSkill2: 'Restocked and organized merchandise in front lanes'
+
+educationDate1: '2020-06'
+
+educationDate2: '2019-12'
+
+educationDate3: '2011-05'
+
+educationCert1: '“Spring Boot for Beginners” and “Captivate In Action: Creating a Tabs Interaction” through Udemy.'
+
+educationCert2: '“Responsive Web Design”, “JavaScript Algorithms and Data Structures”, and “Front-End Development Libraries” through freeCodeCamp.'
+
+educationCert3: '“High School Diploma” Central High School - Chattanooga, TN'
