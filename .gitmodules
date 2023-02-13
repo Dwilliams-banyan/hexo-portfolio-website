@@ -1,0 +1,3 @@
+[submodule "Sw-blog"]
+	path = Sw-blog
+	url = https://github.com/WinMin/Sw-blog.git
