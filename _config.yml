@@ -103,5 +103,5 @@ theme: sw
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy: 
   type: git
-  repo: https://github.com/Dwilliams-banyan/hexo-portfolio-website
+  repo: https://github.com/Dwilliams-banyan/Dwilliams-banyan.github.io
   branch: main
